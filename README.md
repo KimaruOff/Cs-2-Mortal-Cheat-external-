@@ -2,7 +2,7 @@
 
 An external cheat for Counter-Strike 2 written in Python.
 
-![Mortal Hack Preview]([screenshot.png](https://github.com/KimaruOff/Cs-2-Mortal-Cheat-external-/blob/main/photo_2025-06-04_18-14-01.jpg))
+![Mortal Hack Preview](https://github.com/KimaruOff/Cs-2-Mortal-Cheat-external-/blob/main/photo_2025-06-04_18-14-01.jpg?raw=true)
 *Screenshot of the interface*
 
 ## 📋 Features
